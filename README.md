@@ -1,6 +1,5 @@
 # Life Expectancy Predictor
 
-Copy
 
 ![Web Application Screenshot](webpagess.PNG)
 
